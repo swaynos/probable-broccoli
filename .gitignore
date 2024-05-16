@@ -28,3 +28,10 @@ replay_pid*
 
 # Ignore Gradle build output directory
 build
+
+# Ignore the run and run-data directry
+run
+run-data
+
+# Ignore .DS_Store files from macos
+.DS_Store
